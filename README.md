@@ -1,4 +1,4 @@
-### Hi there 👋 I'm new to github. I'm currently studying a introduction course tp coding
+### Hi there 👋 I'm new to github. I'm currently studying an introduction course to coding
 
 <!--
 **KJMCFA/KJMCFA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. I'm interested in coding an IT so any help with where to start on my journey would be appreciated 
